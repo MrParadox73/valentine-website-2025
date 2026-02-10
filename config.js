@@ -23,7 +23,7 @@ const CONFIG = {
     questions: {
         first: {
             text: "Si me quieres???",                                    // First interaction
-            yesBtn: "SI",                                             // Text for "Yes" button
+            yesBtn: "SI (busca el otro boton jsjs)",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "No te quiero, te amo! ❤️"           // Secret hover message
         },
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! soy el mas afortunado del mundo! 🎉💝💖💝💓",
+        title: "No puedo mas que pensar que soy el mas afortunado del mundo! 🎉💝💖💝💓",
         message: "Espero que estes lista para tu regalo, un abrazo y tambien un besito!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
