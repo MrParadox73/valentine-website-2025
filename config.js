@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Yami",
+    valentineName: "Yami, mi amor",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Desde que te conoci mi vida a cambiado, siempre estas en mi mente sin importar que y verdaderamente me encanta eso, amo cada parte de ti y me siento feliz de conocerte, hice esto solo para preguntarte ¿Te gustaria ser mi San Valentin??? 💝",
+    pageTitle: "¿Te gustaria ser mi San Valentin??? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Siguiente ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Serias mi San Valentin este 14 de febrero del 2026??? 🌹", // The big question!
+            text: "Desde que te conoci mi vida a cambiado, siempre estas en mi mente sin importar que y verdaderamente me encanta eso, amo cada parte de ti y me siento feliz de conocerte, hice esto solo para preguntarte ¿Te gustaria ser mi San Valentin??? 💝🌹", // The big question!
             yesBtn: "Obvio sii!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/dbjpfypoi/video/upload/v1770761813/Frances_Limon_kqmosn.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 1.0                        // Volume level (0.0 to 1.0)
     }
 };
 
